@@ -45,7 +45,7 @@ li a {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('images/gorgeous.jpg') no-repeat center;
+    background: url('gorgeous.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
